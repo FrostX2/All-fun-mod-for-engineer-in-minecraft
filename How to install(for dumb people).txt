@@ -1,0 +1,19 @@
+Warning:if you already knew how to install modpack skip this
+
+How to install a modpack
+1.Download the modpack
+2.Open any launcher (recommonded Prism launcher,Modrinth,and Curseforge)
+3.Drag file to launcher
+Tip:Prism launcher supported .zip and .mrpack format
+    Modrinth supported .mrpack
+    Curseforge supported .zip
+If you use Tlauncher read this
+1.Download the .zip file(for Tlauncher)
+2.Extract it and go into the folder
+3.Go into minecraft folder
+4.Open Tlauncher and create a version used Neoforge 1.21.1
+5.Go into launcher root directory by clicking the file icon
+6.Go into version folder
+7.Go into your created version
+8.Drag the mod shaderpack and resource pack folder from the minecraft folder into the created version folder
+9.Launch it
